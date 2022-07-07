@@ -4,6 +4,8 @@
     <img src="screenshot/jetbrains.png" width="100px"></a>
 
 ### 编辑器记得安装lombok插件
+建议使用idea进行配置，可以使用idea自带的maven相关环境。
+另外，此项目所带的镜像源已过期，需要更新新的镜像源。
 
 ### FEBS-Shiro 2.0
 ![https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square](https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square)
